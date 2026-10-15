@@ -1,0 +1,100 @@
+section,population,category,value,unit,population_size,measured_on
+box ticked on the listing,all listings,festival friendly only,59,listings,207,2026-10-01
+box ticked on the listing,all listings,Burning Man friendly only,19,listings,207,2026-10-01
+box ticked on the listing,all listings,both boxes,15,listings,207,2026-10-01
+box ticked on the listing,all listings,neither box,114,listings,207,2026-10-01
+what the owner's own text says (site status),all listings,not stated,186,listings,207,2026-10-01
+what the owner's own text says (site status),all listings,welcome,8,listings,207,2026-10-01
+what the owner's own text says (site status),all listings,names Love Burn,3,listings,207,2026-10-01
+what the owner's own text says (site status),all listings,ask first,4,listings,207,2026-10-01
+what the owner's own text says (site status),all listings,ruled out,6,listings,207,2026-10-01
+what the owner's own text says (site status),box ticked,not stated,82,listings,93,2026-10-01
+what the owner's own text says (site status),box ticked,welcome,6,listings,93,2026-10-01
+what the owner's own text says (site status),box ticked,names Love Burn,3,listings,93,2026-10-01
+what the owner's own text says (site status),box ticked,ask first,1,listings,93,2026-10-01
+what the owner's own text says (site status),box ticked,ruled out,1,listings,93,2026-10-01
+what the owner's own text says (site status),box not ticked,not stated,104,listings,114,2026-10-01
+what the owner's own text says (site status),box not ticked,welcome,2,listings,114,2026-10-01
+what the owner's own text says (site status),box not ticked,names Love Burn,0,listings,114,2026-10-01
+what the owner's own text says (site status),box not ticked,ask first,3,listings,114,2026-10-01
+what the owner's own text says (site status),box not ticked,ruled out,5,listings,114,2026-10-01
+festival answer at 0.6 confidence or more (silent includes below the floor),all listings,allowed,10,listings,207,2026-10-01
+festival answer at 0.6 confidence or more (silent includes below the floor),all listings,conditional,4,listings,207,2026-10-01
+festival answer at 0.6 confidence or more (silent includes below the floor),all listings,prohibited,4,listings,207,2026-10-01
+festival answer at 0.6 confidence or more (silent includes below the floor),all listings,silent,189,listings,207,2026-10-01
+festival answer at 0.6 confidence or more (silent includes below the floor),box ticked,allowed,8,listings,93,2026-10-01
+festival answer at 0.6 confidence or more (silent includes below the floor),box ticked,conditional,1,listings,93,2026-10-01
+festival answer at 0.6 confidence or more (silent includes below the floor),box ticked,prohibited,0,listings,93,2026-10-01
+festival answer at 0.6 confidence or more (silent includes below the floor),box ticked,silent,84,listings,93,2026-10-01
+festival answer at 0.6 confidence or more (silent includes below the floor),box not ticked,allowed,2,listings,114,2026-10-01
+festival answer at 0.6 confidence or more (silent includes below the floor),box not ticked,conditional,3,listings,114,2026-10-01
+festival answer at 0.6 confidence or more (silent includes below the floor),box not ticked,prohibited,4,listings,114,2026-10-01
+festival answer at 0.6 confidence or more (silent includes below the floor),box not ticked,silent,105,listings,114,2026-10-01
+flags at 0.8 or more,all listings,text says it needs hookups,2,listings,207,2026-10-01
+flags at 0.8 or more,all listings,text requires a campground or forbids dry camping,1,listings,207,2026-10-01
+flags at 0.8 or more,all listings,"text names The Love Burn, Luv Burn or Virginia Key",4,listings,207,2026-10-01
+flags at 0.8 or more,all listings,text states an extra fee or deposit for event use,2,listings,207,2026-10-01
+flags at 0.8 or more,box ticked,text says it needs hookups,1,listings,93,2026-10-01
+flags at 0.8 or more,box ticked,text requires a campground or forbids dry camping,0,listings,93,2026-10-01
+flags at 0.8 or more,box ticked,"text names The Love Burn, Luv Burn or Virginia Key",4,listings,93,2026-10-01
+flags at 0.8 or more,box ticked,text states an extra fee or deposit for event use,1,listings,93,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets",all listings,under 24 ft,43,listings,207,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets",all listings,24 ft up to but not including 25 ft (not placed by the event's wording),14,listings,207,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets",all listings,25 to 39 ft,131,listings,207,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets",all listings,over 39 ft up to 40 ft (not placed by the event's wording),8,listings,207,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets",all listings,longer than 40 ft,10,listings,207,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets",all listings,length not listed,1,listings,207,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets",box ticked,under 24 ft,25,listings,93,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets",box ticked,24 ft up to but not including 25 ft (not placed by the event's wording),6,listings,93,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets",box ticked,25 to 39 ft,59,listings,93,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets",box ticked,over 39 ft up to 40 ft (not placed by the event's wording),1,listings,93,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets",box ticked,longer than 40 ft,2,listings,93,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets",box ticked,length not listed,0,listings,93,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets","box ticked, rules not stated",under 24 ft,23,listings,82,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets","box ticked, rules not stated",24 ft up to but not including 25 ft (not placed by the event's wording),6,listings,82,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets","box ticked, rules not stated",25 to 39 ft,50,listings,82,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets","box ticked, rules not stated",over 39 ft up to 40 ft (not placed by the event's wording),1,listings,82,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets","box ticked, rules not stated",longer than 40 ft,2,listings,82,2026-10-01
+"Outdoorsy listed length, by the event's RV pass brackets","box ticked, rules not stated",length not listed,0,listings,82,2026-10-01
+tank sizes,all listings,fresh tank size blank,72,listings,207,2026-10-01
+tank sizes,all listings,fresh tank size listed,135,listings,207,2026-10-01
+tank sizes,all listings,fresh tank median where listed,44,gallons,207,2026-10-01
+tank sizes,all listings,grey tank size blank,78,listings,207,2026-10-01
+tank sizes,all listings,grey tank size listed,129,listings,207,2026-10-01
+tank sizes,all listings,grey tank median where listed,40,gallons,207,2026-10-01
+tank sizes,all listings,black tank size blank,82,listings,207,2026-10-01
+tank sizes,all listings,black tank size listed,125,listings,207,2026-10-01
+tank sizes,all listings,black tank median where listed,35,gallons,207,2026-10-01
+power and delivery,all listings,generator listed,148,listings,207,2026-10-01
+power and delivery,all listings,solar listed,72,listings,207,2026-10-01
+power and delivery,all listings,generator or solar listed,168,listings,207,2026-10-01
+power and delivery,all listings,neither generator nor solar listed,39,listings,207,2026-10-01
+power and delivery,all listings,host delivery offered,136,listings,207,2026-10-01
+tank sizes,box ticked,fresh tank size blank,33,listings,93,2026-10-01
+tank sizes,box ticked,fresh tank size listed,60,listings,93,2026-10-01
+tank sizes,box ticked,fresh tank median where listed,40,gallons,93,2026-10-01
+tank sizes,box ticked,grey tank size blank,36,listings,93,2026-10-01
+tank sizes,box ticked,grey tank size listed,57,listings,93,2026-10-01
+tank sizes,box ticked,grey tank median where listed,37,gallons,93,2026-10-01
+tank sizes,box ticked,black tank size blank,36,listings,93,2026-10-01
+tank sizes,box ticked,black tank size listed,57,listings,93,2026-10-01
+tank sizes,box ticked,black tank median where listed,32,gallons,93,2026-10-01
+power and delivery,box ticked,generator listed,63,listings,93,2026-10-01
+power and delivery,box ticked,solar listed,46,listings,93,2026-10-01
+power and delivery,box ticked,generator or solar listed,74,listings,93,2026-10-01
+power and delivery,box ticked,neither generator nor solar listed,19,listings,93,2026-10-01
+power and delivery,box ticked,host delivery offered,78,listings,93,2026-10-01
+tank sizes,"box ticked, rules not stated",fresh tank size blank,30,listings,82,2026-10-01
+tank sizes,"box ticked, rules not stated",fresh tank size listed,52,listings,82,2026-10-01
+tank sizes,"box ticked, rules not stated",fresh tank median where listed,40,gallons,82,2026-10-01
+tank sizes,"box ticked, rules not stated",grey tank size blank,32,listings,82,2026-10-01
+tank sizes,"box ticked, rules not stated",grey tank size listed,50,listings,82,2026-10-01
+tank sizes,"box ticked, rules not stated",grey tank median where listed,37.5,gallons,82,2026-10-01
+tank sizes,"box ticked, rules not stated",black tank size blank,33,listings,82,2026-10-01
+tank sizes,"box ticked, rules not stated",black tank size listed,49,listings,82,2026-10-01
+tank sizes,"box ticked, rules not stated",black tank median where listed,31,gallons,82,2026-10-01
+power and delivery,"box ticked, rules not stated",generator listed,58,listings,82,2026-10-01
+power and delivery,"box ticked, rules not stated",solar listed,40,listings,82,2026-10-01
+power and delivery,"box ticked, rules not stated",generator or solar listed,66,listings,82,2026-10-01
+power and delivery,"box ticked, rules not stated",neither generator nor solar listed,16,listings,82,2026-10-01
+power and delivery,"box ticked, rules not stated",host delivery offered,68,listings,82,2026-10-01

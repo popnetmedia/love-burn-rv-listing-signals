@@ -1,0 +1,916 @@
+{
+  "meta": {
+    "title": "Love Burn RV listing signals",
+    "compiled_by": "Love Burn Rentals (loveburnrentals.com)",
+    "measured_on": "2026-10-01",
+    "owner_text_read_on": [
+      "2026-09-22"
+    ],
+    "area": "Outdoorsy listings within 50 miles of Virginia Key, Miami, FL",
+    "listings_reported_by_search": 209,
+    "listings_retrieved": 209,
+    "listings_with_a_read": 207,
+    "model": "jev-1.13.0",
+    "questions_hash": "e38c7c811301",
+    "thresholds": {
+      "festival_policy_min_probability": 0.6,
+      "yes_no_min_probability": 0.8
+    },
+    "licence": "CC BY 4.0",
+    "rows": 99,
+    "contains_listing_ids": false
+  },
+  "counts": [
+    {
+      "section": "box ticked on the listing",
+      "population": "all listings",
+      "category": "festival friendly only",
+      "value": 59,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "box ticked on the listing",
+      "population": "all listings",
+      "category": "Burning Man friendly only",
+      "value": 19,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "box ticked on the listing",
+      "population": "all listings",
+      "category": "both boxes",
+      "value": 15,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "box ticked on the listing",
+      "population": "all listings",
+      "category": "neither box",
+      "value": 114,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "all listings",
+      "category": "not stated",
+      "value": 186,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "all listings",
+      "category": "welcome",
+      "value": 8,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "all listings",
+      "category": "names Love Burn",
+      "value": 3,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "all listings",
+      "category": "ask first",
+      "value": 4,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "all listings",
+      "category": "ruled out",
+      "value": 6,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "box ticked",
+      "category": "not stated",
+      "value": 82,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "box ticked",
+      "category": "welcome",
+      "value": 6,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "box ticked",
+      "category": "names Love Burn",
+      "value": 3,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "box ticked",
+      "category": "ask first",
+      "value": 1,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "box ticked",
+      "category": "ruled out",
+      "value": 1,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "box not ticked",
+      "category": "not stated",
+      "value": 104,
+      "unit": "listings",
+      "population_size": 114,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "box not ticked",
+      "category": "welcome",
+      "value": 2,
+      "unit": "listings",
+      "population_size": 114,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "box not ticked",
+      "category": "names Love Burn",
+      "value": 0,
+      "unit": "listings",
+      "population_size": 114,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "box not ticked",
+      "category": "ask first",
+      "value": 3,
+      "unit": "listings",
+      "population_size": 114,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "what the owner's own text says (site status)",
+      "population": "box not ticked",
+      "category": "ruled out",
+      "value": 5,
+      "unit": "listings",
+      "population_size": 114,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "festival answer at 0.6 confidence or more (silent includes below the floor)",
+      "population": "all listings",
+      "category": "allowed",
+      "value": 10,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "festival answer at 0.6 confidence or more (silent includes below the floor)",
+      "population": "all listings",
+      "category": "conditional",
+      "value": 4,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "festival answer at 0.6 confidence or more (silent includes below the floor)",
+      "population": "all listings",
+      "category": "prohibited",
+      "value": 4,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "festival answer at 0.6 confidence or more (silent includes below the floor)",
+      "population": "all listings",
+      "category": "silent",
+      "value": 189,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "festival answer at 0.6 confidence or more (silent includes below the floor)",
+      "population": "box ticked",
+      "category": "allowed",
+      "value": 8,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "festival answer at 0.6 confidence or more (silent includes below the floor)",
+      "population": "box ticked",
+      "category": "conditional",
+      "value": 1,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "festival answer at 0.6 confidence or more (silent includes below the floor)",
+      "population": "box ticked",
+      "category": "prohibited",
+      "value": 0,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "festival answer at 0.6 confidence or more (silent includes below the floor)",
+      "population": "box ticked",
+      "category": "silent",
+      "value": 84,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "festival answer at 0.6 confidence or more (silent includes below the floor)",
+      "population": "box not ticked",
+      "category": "allowed",
+      "value": 2,
+      "unit": "listings",
+      "population_size": 114,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "festival answer at 0.6 confidence or more (silent includes below the floor)",
+      "population": "box not ticked",
+      "category": "conditional",
+      "value": 3,
+      "unit": "listings",
+      "population_size": 114,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "festival answer at 0.6 confidence or more (silent includes below the floor)",
+      "population": "box not ticked",
+      "category": "prohibited",
+      "value": 4,
+      "unit": "listings",
+      "population_size": 114,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "festival answer at 0.6 confidence or more (silent includes below the floor)",
+      "population": "box not ticked",
+      "category": "silent",
+      "value": 105,
+      "unit": "listings",
+      "population_size": 114,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "flags at 0.8 or more",
+      "population": "all listings",
+      "category": "text says it needs hookups",
+      "value": 2,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "flags at 0.8 or more",
+      "population": "all listings",
+      "category": "text requires a campground or forbids dry camping",
+      "value": 1,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "flags at 0.8 or more",
+      "population": "all listings",
+      "category": "text names The Love Burn, Luv Burn or Virginia Key",
+      "value": 4,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "flags at 0.8 or more",
+      "population": "all listings",
+      "category": "text states an extra fee or deposit for event use",
+      "value": 2,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "flags at 0.8 or more",
+      "population": "box ticked",
+      "category": "text says it needs hookups",
+      "value": 1,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "flags at 0.8 or more",
+      "population": "box ticked",
+      "category": "text requires a campground or forbids dry camping",
+      "value": 0,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "flags at 0.8 or more",
+      "population": "box ticked",
+      "category": "text names The Love Burn, Luv Burn or Virginia Key",
+      "value": 4,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "flags at 0.8 or more",
+      "population": "box ticked",
+      "category": "text states an extra fee or deposit for event use",
+      "value": 1,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "all listings",
+      "category": "under 24 ft",
+      "value": 43,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "all listings",
+      "category": "24 ft up to but not including 25 ft (not placed by the event's wording)",
+      "value": 14,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "all listings",
+      "category": "25 to 39 ft",
+      "value": 131,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "all listings",
+      "category": "over 39 ft up to 40 ft (not placed by the event's wording)",
+      "value": 8,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "all listings",
+      "category": "longer than 40 ft",
+      "value": 10,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "all listings",
+      "category": "length not listed",
+      "value": 1,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "box ticked",
+      "category": "under 24 ft",
+      "value": 25,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "box ticked",
+      "category": "24 ft up to but not including 25 ft (not placed by the event's wording)",
+      "value": 6,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "box ticked",
+      "category": "25 to 39 ft",
+      "value": 59,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "box ticked",
+      "category": "over 39 ft up to 40 ft (not placed by the event's wording)",
+      "value": 1,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "box ticked",
+      "category": "longer than 40 ft",
+      "value": 2,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "box ticked",
+      "category": "length not listed",
+      "value": 0,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "box ticked, rules not stated",
+      "category": "under 24 ft",
+      "value": 23,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "box ticked, rules not stated",
+      "category": "24 ft up to but not including 25 ft (not placed by the event's wording)",
+      "value": 6,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "box ticked, rules not stated",
+      "category": "25 to 39 ft",
+      "value": 50,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "box ticked, rules not stated",
+      "category": "over 39 ft up to 40 ft (not placed by the event's wording)",
+      "value": 1,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "box ticked, rules not stated",
+      "category": "longer than 40 ft",
+      "value": 2,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "Outdoorsy listed length, by the event's RV pass brackets",
+      "population": "box ticked, rules not stated",
+      "category": "length not listed",
+      "value": 0,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "all listings",
+      "category": "fresh tank size blank",
+      "value": 72,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "all listings",
+      "category": "fresh tank size listed",
+      "value": 135,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "all listings",
+      "category": "fresh tank median where listed",
+      "value": 44,
+      "unit": "gallons",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "all listings",
+      "category": "grey tank size blank",
+      "value": 78,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "all listings",
+      "category": "grey tank size listed",
+      "value": 129,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "all listings",
+      "category": "grey tank median where listed",
+      "value": 40,
+      "unit": "gallons",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "all listings",
+      "category": "black tank size blank",
+      "value": 82,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "all listings",
+      "category": "black tank size listed",
+      "value": 125,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "all listings",
+      "category": "black tank median where listed",
+      "value": 35,
+      "unit": "gallons",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "all listings",
+      "category": "generator listed",
+      "value": 148,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "all listings",
+      "category": "solar listed",
+      "value": 72,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "all listings",
+      "category": "generator or solar listed",
+      "value": 168,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "all listings",
+      "category": "neither generator nor solar listed",
+      "value": 39,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "all listings",
+      "category": "host delivery offered",
+      "value": 136,
+      "unit": "listings",
+      "population_size": 207,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked",
+      "category": "fresh tank size blank",
+      "value": 33,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked",
+      "category": "fresh tank size listed",
+      "value": 60,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked",
+      "category": "fresh tank median where listed",
+      "value": 40,
+      "unit": "gallons",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked",
+      "category": "grey tank size blank",
+      "value": 36,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked",
+      "category": "grey tank size listed",
+      "value": 57,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked",
+      "category": "grey tank median where listed",
+      "value": 37,
+      "unit": "gallons",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked",
+      "category": "black tank size blank",
+      "value": 36,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked",
+      "category": "black tank size listed",
+      "value": 57,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked",
+      "category": "black tank median where listed",
+      "value": 32,
+      "unit": "gallons",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "box ticked",
+      "category": "generator listed",
+      "value": 63,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "box ticked",
+      "category": "solar listed",
+      "value": 46,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "box ticked",
+      "category": "generator or solar listed",
+      "value": 74,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "box ticked",
+      "category": "neither generator nor solar listed",
+      "value": 19,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "box ticked",
+      "category": "host delivery offered",
+      "value": 78,
+      "unit": "listings",
+      "population_size": 93,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked, rules not stated",
+      "category": "fresh tank size blank",
+      "value": 30,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked, rules not stated",
+      "category": "fresh tank size listed",
+      "value": 52,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked, rules not stated",
+      "category": "fresh tank median where listed",
+      "value": 40,
+      "unit": "gallons",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked, rules not stated",
+      "category": "grey tank size blank",
+      "value": 32,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked, rules not stated",
+      "category": "grey tank size listed",
+      "value": 50,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked, rules not stated",
+      "category": "grey tank median where listed",
+      "value": 37.5,
+      "unit": "gallons",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked, rules not stated",
+      "category": "black tank size blank",
+      "value": 33,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked, rules not stated",
+      "category": "black tank size listed",
+      "value": 49,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "tank sizes",
+      "population": "box ticked, rules not stated",
+      "category": "black tank median where listed",
+      "value": 31,
+      "unit": "gallons",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "box ticked, rules not stated",
+      "category": "generator listed",
+      "value": 58,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "box ticked, rules not stated",
+      "category": "solar listed",
+      "value": 40,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "box ticked, rules not stated",
+      "category": "generator or solar listed",
+      "value": 66,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "box ticked, rules not stated",
+      "category": "neither generator nor solar listed",
+      "value": 16,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    },
+    {
+      "section": "power and delivery",
+      "population": "box ticked, rules not stated",
+      "category": "host delivery offered",
+      "value": 68,
+      "unit": "listings",
+      "population_size": 82,
+      "measured_on": "2026-10-01"
+    }
+  ]
+}
